@@ -1,14 +1,13 @@
 # Kelompok Cosmic
-## Rivan Alamsyah / 2100016103
-## Tri Handaru Arif / 2100016058
-## Muslim Safiq / 2100016074
+### Rivan Alamsyah / 2100016103
+### Tri Handaru Arif / 2100016058
+### Muslim Safiq / 2100016074
 
 # Task Manager App
 
 ## Overview
 
-The Task Manager App is a Flutter mobile application designed to help users manage their tasks efficiently.
-The app utilizes the Bloc architecture for state management and incorporates error handling for a smooth user experience.
+TimeWise is a Flutter-based application designed to help users manage time and tasks more effectively and efficiently. With features like task logging, reminders, and time tracking, the app ensures users stay organized and productive throughout the day. TimeWise provides an intuitive and easy-to-use interface, making it suitable for various groups, from students to professionals.
 
 ## Features
 
